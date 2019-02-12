@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaegooru.johnhuffman.engineer/sitemap.xml
